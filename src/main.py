@@ -2,7 +2,8 @@ import requests
 import telebot
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton, InlineKeyboardButton, InlineKeyboardMarkup
 
-# Read tokens from files
+
+#read tokens from files for security
 with open("../res/TOKEN.txt") as file:
     TELEGRAM_TOKEN = file.readline().strip()
 
@@ -81,3 +82,5 @@ def send_durev_price(call):
 
 if __name__ == '__main__':
     bot.polling()
+
+#eshkere
