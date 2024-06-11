@@ -4,4 +4,4 @@ My first independent project on python, the essence of the project is to quickly
 
 This bot displays the rate of the main memecoins of the ton blockchain: NOT, SHIT, DUREV. Works with coinmarketcap api in python.
 
-the bot will be updated... Maybe
+the bot will be updated... Maybe👨‍💻
