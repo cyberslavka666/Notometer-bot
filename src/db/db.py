@@ -1,9 +1,9 @@
 from psycopg2 import *
 
 params = {
-    "dbname": "not-bot",
-    "user": "postgres",
-    "password": "qwerty12345",
+    "dbname": "your-db-name",
+    "user": "your-user",
+    "password": "your-password",
     "host": "127.0.0.1",
     "port": "5432"
 }
